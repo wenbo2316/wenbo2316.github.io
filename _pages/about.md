@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-You can call me Wen and I received a bachelor degree of Geophysics at Jilin University, China.
+You can call me Wen and I received a bachelor degree of Geophysics at Jilin University, China. To keep persue the mystery of our physical world, I decide to pursue 
