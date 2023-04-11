@@ -56,8 +56,9 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
+linkedin:
+  username               : &Wen Bo
+  links: "https://www.linkedin.com/in/wen-bo-961583199"
 facebook:
   username               :
   app_id                 :
