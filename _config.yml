@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wen Bo's personal website"
+title                    : "Wen Bo's homepage"
 title_separator          : "-"
 name                     : &name "Wen Bo"
 description              : &description "Master student at University of Chicago"
