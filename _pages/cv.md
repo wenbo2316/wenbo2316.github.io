@@ -18,9 +18,14 @@ Education
 
 Work experience
 ======
+* Summer 2022 - Autumn 2023: Research Assistant
+  * The University of Chicago
+  * Prediction of fracture's orientation on Mouns Sharp, Mars
+  * Supervisor: Professor Edwin Kite
+
 * Summer 2023: Research Assistant
   * Stanford University
-  * Duties included: Tagging issues
+  * Dune interactions on planetary surfaces: insights from Cassini-quality SAR
   * Supervisor: Professor Mathieu Lapotre
   
 Skills
