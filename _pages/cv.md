@@ -13,7 +13,8 @@ Education
 ======
 * B.S. in Geophysics, Jilin University, 2021
 * M.S. in Physical Science, The University of Chicago, 2023
-* Ph.D in Planetary Science, GitHub University, 2018 (expected)
+* M.S. in Computer Science, Georgia Institute of Technology, 2024
+* Ph.D in Planetary Science, GitHub University, 2029 (expected)
 
 Work experience
 ======
