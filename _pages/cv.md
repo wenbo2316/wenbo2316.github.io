@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Geophysics, Jilin University, 2021
-* M.S. in Physical Science, The University of Chicago, 2023
+* M.S. in Physical Science(Quantum Computation track), The University of Chicago, 2023
 * M.S. in Computer Science, Georgia Institute of Technology, 2024
 * Ph.D in Planetary Science, GitHub University, 2029 (expected)
 
@@ -20,7 +20,7 @@ Work experience
 ======
 * Summer 2022 - Autumn 2023: Research Assistant
   * The University of Chicago
-  * Prediction of fracture's orientation on Mouns Sharp, Mars
+  * Prediction of fracture's orientations at Mouns Sharp on Mars
   * Supervisor: Professor Edwin Kite
 
 * Summer 2023: Research Assistant
@@ -30,12 +30,9 @@ Work experience
   
 Skills
 ======
-* Numerical computation
-* Machine learning
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Numerical Analysis
+* Machine Learning
+* Quantum Simulation and Quantum Computation
 
 Publications
 ======
